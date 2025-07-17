@@ -1,2 +1,2 @@
 # laborstuff
-This is a software utility that may use in the paper digitalization jobs.
+這個工具程式是利用iTextPdf程式庫加入浮水印字串到既有的pdf。
